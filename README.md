@@ -1,4 +1,4 @@
-## Contribution
+### OpenSource Contribute
 - [Spring Security | pr] [누락된 javadoc 작성](https://github.com/spring-projects/spring-security/pull/14175)
 - [Obsidian | pr] [한글화 기여](https://github.com/obsidianmd/obsidian-translations/pull/906)
 - [Spring Security | issue-comment] [issue 답장](https://github.com/spring-projects/spring-security/issues/13743)
