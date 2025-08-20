@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**YangSiJun528/yangsijun528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contribution
+- [Spring Security | pr] [누락된 javadoc 작성](https://github.com/spring-projects/spring-security/pull/14175)
+- [Obsidian | pr] [한글화 기여](https://github.com/obsidianmd/obsidian-translations/pull/906)
+- [Spring Security | issue-comment] [issue 답장](https://github.com/spring-projects/spring-security/issues/13743)
+- [Spring Boot | issue-comment] [issue에 대한 추가 의견](https://github.com/spring-projects/spring-boot/issues/40171)
+- [springdoc | issue] [Enhance SpringDoc documentation for file upload API configuration](https://github.com/springdoc/springdoc.github.io/issues/77)
+- [spring initializr | issue] [Configure Kotlin's all-open plugin for JPA entities](https://github.com/spring-io/initializr/issues/1572)
+- [line/armeria | pr] [Fix asJson method to pass mapper in WebClientRequestPreparation](https://github.com/line/armeria/pull/5512)
+- [spring initializr | pr | 2024-10] [Add Configuration for Kotlin's All-Open Plugin for JPA Entities](https://github.com/spring-io/initializr/pull/1576)
+- [spring boot | pr | 2024-12] [Tighten rules around profile naming](https://github.com/spring-projects/spring-boot/pull/43176)
+- [spring initializr | pr | 2025-07] [Add support for repeatable annotations](https://github.com/spring-io/initializr/pull/1670)
+- [spring initializr | pr | 2025-08] [Add YAML support for configuration file format](https://github.com/spring-io/initializr/pull/1682)
+- [spring initializr | pr | 2025-08] [Add description to generated Gradle build files](https://github.com/spring-io/initializr/pull/1684)
+- [spring initializr | pr | 2025-08] [Add description to generated Gradle build files](https://github.com/spring-io/initializr/pull/1684)
+- [spring initializr | pr | 2025-08] [Add compliance tests for gradle settings](https://github.com/spring-io/initializr/pull/1685)
