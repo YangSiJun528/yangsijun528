@@ -1,8 +1,6 @@
 ### OpenSource Contribute
-- [Spring Security | pr] [누락된 javadoc 작성](https://github.com/spring-projects/spring-security/pull/14175)
-- [Obsidian | pr] [한글화 기여](https://github.com/obsidianmd/obsidian-translations/pull/906)
-- [Spring Security | issue-comment] [issue 답장](https://github.com/spring-projects/spring-security/issues/13743)
-- [Spring Boot | issue-comment] [issue에 대한 추가 의견](https://github.com/spring-projects/spring-boot/issues/40171)
+- [Spring Security | pr] [Update Javadoc Comments in AuthorizationEvent Class](https://github.com/spring-projects/spring-security/pull/14175)
+- [Obsidian | pr] [Update ko.json](https://github.com/obsidianmd/obsidian-translations/pull/906)
 - [springdoc | issue] [Enhance SpringDoc documentation for file upload API configuration](https://github.com/springdoc/springdoc.github.io/issues/77)
 - [spring initializr | issue] [Configure Kotlin's all-open plugin for JPA entities](https://github.com/spring-io/initializr/issues/1572)
 - [line/armeria | pr] [Fix asJson method to pass mapper in WebClientRequestPreparation](https://github.com/line/armeria/pull/5512)
