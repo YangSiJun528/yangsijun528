@@ -11,5 +11,4 @@
 - [spring initializr | pr | 2025-07] [Add support for repeatable annotations](https://github.com/spring-io/initializr/pull/1670)
 - [spring initializr | pr | 2025-08] [Add YAML support for configuration file format](https://github.com/spring-io/initializr/pull/1682)
 - [spring initializr | pr | 2025-08] [Add description to generated Gradle build files](https://github.com/spring-io/initializr/pull/1684)
-- [spring initializr | pr | 2025-08] [Add description to generated Gradle build files](https://github.com/spring-io/initializr/pull/1684)
 - [spring initializr | pr | 2025-08] [Add compliance tests for gradle settings](https://github.com/spring-io/initializr/pull/1685)
