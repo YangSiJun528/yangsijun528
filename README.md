@@ -17,4 +17,4 @@
 
 #### 광주소프트웨어마이스터고등학교(Gwangju Software Meister High School) 5기 (2021. 03. - 2024. 01.)  
 - 소프트웨어개발과
-- 고교 입학지뭔 서비스 Hello,GSM Backend 개발
+- 고교 입학 지원 서비스 _Hello,GSM_ Backend 개발
