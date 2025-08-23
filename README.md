@@ -12,9 +12,9 @@
 - [Spring Initializr | PR | 2025-08] [Add compliance tests for gradle settings](https://github.com/spring-io/initializr/pull/1685)
 
 ### Career & Education
-#### Backend Developer (2024-07 ~ 현재)  
+#### Backend Developer (2024. 07. - 현재)  
 - 주요 기술: Kotlin, Spring Boot, JPA, AWS, PostgreSQL
 
-#### 광주소프트웨어마이스터고등학교(Gwangju Software Meister High School) 5기 (2022~2024)  
+#### 광주소프트웨어마이스터고등학교(Gwangju Software Meister High School) 5기 (2021. 03. - 2024. 01.)  
 - 소프트웨어개발과
 - 고교 입학지뭔 서비스 Hello,GSM Backend 개발
