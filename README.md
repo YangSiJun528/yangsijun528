@@ -10,6 +10,7 @@
 - [Spring Initializr | PR | 2025-08] [Add YAML support for configuration file format](https://github.com/spring-io/initializr/pull/1682)
 - [Spring Initializr | PR | 2025-08] [Add description to generated Gradle build files](https://github.com/spring-io/initializr/pull/1684)
 - [Spring Initializr | PR | 2025-08] [Add compliance tests for gradle settings](https://github.com/spring-io/initializr/pull/1685)
+- [Spring Initializr | PR | 2025-08] [ConfigurationFileFormat isn't copied in the description copy and is missing in the diff](https://github.com/spring-io/initializr/pull/1693)
 
 ### Career & Education
 #### Backend Developer (2024. 07. - 현재)  
