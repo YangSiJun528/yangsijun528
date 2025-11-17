@@ -11,7 +11,9 @@
 - [[Spring Initializr](https://github.com/spring-io/initializr) | PR | 2025-08] [Add description to generated Gradle build files](https://github.com/spring-io/initializr/pull/1684)  
 - [[Spring Initializr](https://github.com/spring-io/initializr) | PR | 2025-08] [Add compliance tests for gradle settings](https://github.com/spring-io/initializr/pull/1685)  
 - [[Spring Initializr](https://github.com/spring-io/initializr) | PR | 2025-08] [ConfigurationFileFormat isn't copied in the description copy and is missing in the diff](https://github.com/spring-io/initializr/pull/1693)  
-- [[Spring Initializr](https://github.com/spring-io/initializr) | PR | 2025-09] [Update documentation and tests for the v2.3 metadata format](https://github.com/spring-io/initializr/pull/1697)  
+- [[Spring Initializr](https://github.com/spring-io/initializr) | PR | 2025-09] [Update documentation and tests for the v2.3 metadata format](https://github.com/spring-io/initializr/pull/1697)
+- [[Apache Iggy](https://github.com/apache/iggy) | Issue | 2025-11] [Clarify that --with-default-root-credentials only apply on first server start](https://github.com/apache/iggy/issues/2308)
+- [[Apache Iggy](https://github.com/apache/iggy) | PR | 2025-11] [chore(docs): clarify root credentials behavior and lifecycle](https://github.com/apache/iggy/pull/2312)
 
 ### Career & Education
 #### Backend Developer (2024. 07. - 현재)  
