@@ -14,7 +14,7 @@
 - [[Spring Initializr](https://github.com/spring-io/initializr) | PR | 2025-09] [Update documentation and tests for the v2.3 metadata format](https://github.com/spring-io/initializr/pull/1697)
 - [[Apache Iggy](https://github.com/apache/iggy) | Issue | 2025-11] [Clarify that --with-default-root-credentials only apply on first server start](https://github.com/apache/iggy/issues/2308)
 - [[Apache Iggy](https://github.com/apache/iggy) | PR | 2025-11] [chore(docs): clarify root credentials behavior and lifecycle](https://github.com/apache/iggy/pull/2312)
-- [[Apache Iggy](https://github.com/apache/iggy) | PR (Working) | 2025-11] [feat(wireshark): add wireshark dissector for iggy protocol](https://github.com/apache/iggy/pull/2360)
+- [[Apache Fesod](https://github.com/apache/fesod) | PR | 2025-12] [fix: ensure converter isolation across ExcelWriter and ExcelReader](https://github.com/apache/fesod/pull/740)
 
 ### Career & Education
 #### Backend Developer (2024. 07. - 현재)  
