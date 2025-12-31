@@ -17,7 +17,7 @@
 - [[Apache Fesod](https://github.com/apache/fesod) | PR | 2025-12] [fix: ensure converter isolation across ExcelWriter and ExcelReader](https://github.com/apache/fesod/pull/740)
 
 ### Career & Education
-#### Backend Developer (2024. 07. - 현재)  
+#### Backend Developer (2024. 09. - 현재)  
 - 주요 기술: Kotlin, Spring Boot, JPA, AWS, PostgreSQL
 
 #### 광주소프트웨어마이스터고등학교(Gwangju Software Meister High School) 5기 (2021. 03. - 2024. 01.)  
